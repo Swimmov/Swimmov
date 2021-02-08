@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on new Project
-- 🌱 I’m currently learning Android Developing
+- 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate on Android Apps
 - 🤔 I’m looking for a job
 - 💬 Ask me about Sports

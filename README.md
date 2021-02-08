@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on new Project
-- 🌱 I’m currently learning Spring
+- 🌱 I’m currently learning Android Developing
 - 👯 I’m looking to collaborate on Android Apps
-- 🤔 I’m looking for help with Spring
+- 🤔 I’m looking for a job
 - 💬 Ask me about Sports
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/dzmitry-kandrykinski-a2b1b7171/)
 - 😄 Pronouns: He/Him

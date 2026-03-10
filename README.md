@@ -1,6 +1,6 @@
 ### 🚀 Hello from Dmitry, AI/ML Enthusiast! 👋
 
-- 🌱 I’m currently involved in Machine Learning Project
+- 🌱 I'm currently involved in ML Causality Project
 - 👯 I’m looking to collaborate on AI/ML related projects
 - 🤔 I’m looking for a job
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/swimdog/)
